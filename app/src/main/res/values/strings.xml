@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bizom</string>
+    <string name="you_are_offline_please_check_your_internet_connection">You are offline please check your internet connection</string>
+</resources>
